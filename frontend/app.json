@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "AlloyNext Career Suite",
+    "slug": "alloynext-frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f9f9ff"
+    },
+    "web": {
+      "favicon": "https://lh3.googleusercontent.com/aida/AEtjO1VDU93BSN_FpTfEItctO8NbjoQ00mrx5Jg1Lpox3X1J7pH6IMzSstdGukODnEE51unuPdDgSElq5GZaP8i2AfflbbG6stXxe0JQyV3l_W8xKxmtDDz0AS4bHRDHlZq_OWZUR1RxYGn5lfxq4WMwOw1a0_ya-YEFAV0Mvsadlbuf_4gIARV6SEv4WGjz7VRifPFg3lUjc-shTDYOY3JSYokR0nEMuJ0EFrISXz46v0lYl-HYp9Q0poQaAQ",
+      "bundler": "metro"
+    }
+  }
+}

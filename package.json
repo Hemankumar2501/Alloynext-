@@ -1,0 +1,25 @@
+{
+  "name": "stitch_alloynext_career_management_workspace",
+  "version": "1.0.0",
+  "description": "[![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) [![React Native](https://img.shields.io/badge/React%20Native%20for%20Web-61DAFB?logo=react&logoColor=black)](https://necolas.github.io/react-native-web/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2F%20SQLite-Ready-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org) [![Security](https://img.shields.io/badge/Auth-Argon2id%20%2B%20JWT-success)]() [![Tests](https://img.shields.io/badge/Tests-5%20Passing-brightgreen)]()",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "server": "node server/index.js",
+    "frontend": "npm start --prefix frontend",
+    "dev": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/genai": "^2.31.0",
+    "better-sqlite3": "^13.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.1"
+  }
+}
